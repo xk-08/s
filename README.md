@@ -169,7 +169,7 @@
 前端地址:https://github.com/xujimu/ios_super_sign_vue
 搭建视频: https://cloud.189.cn/t/qmQB7fvaYba2 (访问码:rqo8)
 
-###鸣谢
+### 鸣谢
 https://github.com/zhlynn/zsign
 
 ### 展示
